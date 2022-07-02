@@ -1,0 +1,15 @@
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\bin\Debug\net6.0\pingapp.exe
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\bin\Debug\net6.0\pingapp.deps.json
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\bin\Debug\net6.0\pingapp.runtimeconfig.json
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\bin\Debug\net6.0\pingapp.dll
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\bin\Debug\net6.0\pingapp.pdb
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.csproj.AssemblyReference.cache
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.AssemblyInfoInputs.cache
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.AssemblyInfo.cs
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.csproj.CoreCompileInputs.cache
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.dll
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\refint\pingapp.dll
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.pdb
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\pingapp.genruntimeconfig.cache
+C:\Users\Luciano Piccoli\RiderProjects\pingapp\pingapp\obj\Debug\net6.0\ref\pingapp.dll
